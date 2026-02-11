@@ -1,0 +1,85 @@
+{
+    "primaryDevoteeId": 10,
+    "requisitionDate": "08-08-2025",
+    "requisitionFromDate": "09-08-2025",
+    "requisitionToDate": "10-08-2025",
+    "requisitionGuestCount": 4,
+    "requisitionPurposeCategory": "Nivedan",
+    "requisitionPurposeDescription": "NA",
+    "requisitionType": "Family",
+    "visitorDetails": [
+        {
+            "coVisitorAddressLine1": "Hn 47",
+            "coVisitorCity": "Digitari",
+            "coVisitorCountry": "India",
+            "coVisitorEmail": "",
+            "coVisitorFamilyCode": "",
+            "coVisitorFirstName": "Surat",
+            "coVisitorLastName": "Sahoo",
+            "coVisitorGender": "Male",
+            "coVisitorIdentityRefNum": "123412341234",
+            "coVisitorIdentityType": "AADHAR CARD",
+            "coVisitorPhysicalVerified": false,
+            "coVisitorPincode": 754140,
+            "coVisitorRelationship": "Son",
+            "coVisitorMobile": "9348476097",
+            "coVisitorState": "ODISHA",
+            "coVisitorVisaDetail": null,
+            "isFullyCovid19Vaccinated": "Yes",
+            "coVisitorDateOfBirth": "16-01-1987"
+        },
+        {
+            "coVisitorAddressLine1": "Hn 47",
+            "coVisitorCity": "Digitari",
+            "coVisitorCountry": "India",
+            "coVisitorEmail": "",
+            "coVisitorFamilyCode": "",
+            "coVisitorFirstName": "Sushree",
+            "coVisitorLastName": "Nibedita Swain",
+            "coVisitorGender": "Female",
+            "coVisitorIdentityRefNum": "700882347233",
+            "coVisitorIdentityType": "AADHAR CARD",
+            "coVisitorPhysicalVerified": false,
+            "coVisitorPincode": 754140,
+            "coVisitorRelationship": "Cousin",
+            "coVisitorMobile": "7735885268",
+            "coVisitorState": "ODISHA",
+            "coVisitorVisaDetail": null,
+            "isFullyCovid19Vaccinated": "Yes",
+            "coVisitorDateOfBirth": "10-05-2002"
+        }
+    ],
+    "devoteeIds": [
+        10,
+        12
+    ],
+    "suggestionDetail": {
+        "healthCondition1": "Not Applicable",
+        "healthCondition2": " ",
+        "healthCondition3": " ",
+        "anandaBazarChairRequiredCount": 1,
+        "healthConditionsDesc": "",
+        "infantsCount": "",
+        "specialCondition1": "",
+        "specialCondition2": ""
+    },
+    "transportationDetails": [
+        {
+            "modeOfTransportation": "Bus",
+            "ticketOrPNRDetail": "6565465465",
+            "vehicleNumber": null,
+            "driverRequireAccomodation": null,
+            "driverLicenseNumber": null,
+            "driverFullName": null
+        },
+        {
+            "modeOfTransportation": "Car",
+            "ticketOrPNRDetail": "",
+            "vehicleNumber": "ABCD",
+            "driverRequireAccomodation": "true",
+            "driverLicenseNumber": "56897465",
+            "driverFullName": "Bibha"
+        }
+    ],
+    "agreementToTermsandCondition": "Accepted"
+}

@@ -1,0 +1,44 @@
+{
+    "devotees": [
+        {
+            "devoteeAddress": {
+                "addressLine1": "Plot no 1234",
+                "addressLine2": "Satya Nagar",
+                "addressLine3": "Near big bazzar",
+                "addressType": "CURRENT",
+                "city": "Bhubaneswar",
+                "district": "KHORDHA",
+                "otherCity": "",
+                "country": "India",
+                "pin": "751007",
+                "otherPin": "",
+                "state": "ODISHA",
+                "otherState": "",
+                "status": "ACTIVE"
+            },
+            "devoteeProfile": {
+                "devoteeFirstName": "RANJAN KUMAR",
+                "devoteeLastName": "BARIK",
+                "devoteeDateOfBirth": "10-04-1985",
+                "devoteeFamilyCode": "004598076400",
+                "devoteeGender": "Male",
+                "devoteeNationality": "INDIAN",
+                "devoteeEmail": "ranjankumar@gmail.com",
+                "devoteeEmailAlt": null,
+                "devoteeMobileNumber": "9439050159",
+                "devoteeMobileNumberAlt": null,
+                "isInitiated": true,
+                "isSwastayaniHolder": false,
+                "identityNumber": "123456789012",
+                "devoteReligion": "HINDU",
+                "maritailStatus": "Single",
+                "physicallyChallenges": "Not Applicable",
+                "isFullyCovid19Vaccinated": "Yes"
+            },
+            "devoteeAgreement": {
+                "content": "By checking the below box, I agree that I have read all the terms and conditions, as present in the Terms & Conditions link https://app.acco.satsangphilanthropy.com/#/termsnconditions  and have also read the general guidelines of accomodation and it's various processes to be followed, as described in the link Guidelines https://app.acco.satsangphilanthropy.com/#/guidelinesnfaqs and I hereby consent that I have understood and would abide by it in full and also hereby declare that I would convey the information present in the aforementioned link to all the visitors visiting the Satsang Ashram, Deoghar through the booking made using this online Accomodation System to abide by the same terms and conditions and guidelines without any deviations. Moreover, I further declare that I would be fully responsible for any inappropriate conduct or deviations from the information shared in the aforementioned link, and would not held Satsang Deoghar or any of it's associates responsible for whatsoever.I,  S/O or D/O or W/O Bishnu Charan Swain from place null agree to the above mentioned terms and conditions and guidelines.",
+                "place": null
+            }
+        }
+    ]
+}

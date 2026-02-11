@@ -1,0 +1,22 @@
+{
+    "visistorDetails": [
+        {
+            "fullName": "testing",
+            "gender": "Male",
+            "aadharNumber": "123450089001",
+            "mobileNumber": "8240709773",
+            "relationship": "Non-Initiated Female",
+            "dateOfBirth": "03-02-2025",
+            "physicalDisability": "Not Applicable"
+        },
+        {
+            "fullName": "testing",
+            "gender": "Male",
+            "aadharNumber": "123400799101",
+            "mobileNumber": "8240709773",
+            "relationship": "Non-Initiated Female",
+            "dateOfBirth": "03-02-2025",
+            "physicalDisability": "Not Applicable"
+        }
+    ]
+}
